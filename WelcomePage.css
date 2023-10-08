@@ -1,0 +1,37 @@
+.welcome-page {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .welcome-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-page p {
+    font-size: 1.2em;
+  }
+  
+  .welcome-page button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .welcome-page button:hover {
+    background-color: #2980b9;
+  }
+  
+  .welcome-page button.logout-button {
+    margin-top: 20px;
+    background-color: #e74c3c;
+  }
+  
+  .welcome-page button.logout-button:hover {
+    background-color: #c0392b;
+  }
+  
